@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "682029F9-268E-475A-994D-88DCE99DF407",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:GenericAuthentication.xcodeproj",
+        "identifier" : "C93C206D2B77EC36005A3DBE",
+        "name" : "GenericAuthenticationTests"
+      }
+    }
+  ],
+  "version" : 1
+}
